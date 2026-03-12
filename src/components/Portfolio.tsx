@@ -23,7 +23,7 @@ const portfolioData = [
   {
     title: 'Sentiment Analyzer',
     description: 'Developed a sentiment analysis tool to understand and classify text emotions and opinions effectively.',
-    image: '/images/work2.webp',
+    image: '/images/sentiment.jpg',
     link: 'https://github.com/Sunil-Yadav-1912/Sentiment-Analyzer',
   },
 ];
